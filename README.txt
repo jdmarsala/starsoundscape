@@ -1,5 +1,5 @@
 The Dying Star (Soundscape)
-As of 9/14/22, this repo includes the current Audacity project file in use, an mp3 file of the soundscape and a screenshot of my Audacity timeline so far.
+As of 9/14, this repo includes an mp3 file of the soundscape, this text file and a screenshot of my Audacity timeline so far. My .aup3 file is too big to include, I'll try to fix that soon.
 
 Sound Sources (9/14/22):
 https://freesound.org/people/jirzin/sounds/348550/
